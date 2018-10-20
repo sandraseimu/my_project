@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Program {
 
 		public static void main(String[] args) {
-			Scanner scan = new Scanner(System.in);
+			
 			int n = scan.nextInt();
 			int m = scan.nextInt();
 			int[][] x = new int[n][m];
